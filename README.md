@@ -10,3 +10,6 @@ Undo/Redo: Manage your edits efficiently with undo and redo functionality.
 Text Summary: View essential statistics like word count, character count, line count, and estimated reading time.
 Responsive UI: Enjoy a clean and user-friendly interface that works seamlessly across devices.
 Perfect for students, writers, and anyone who works with text, Textify Pro helps streamline your workflow and improve productivity.
+
+
+![Screenshot 2024-11-28 220549](https://github.com/user-attachments/assets/bf11a697-7718-41cd-9863-2fe1c0001572)
